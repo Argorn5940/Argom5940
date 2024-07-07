@@ -7,8 +7,8 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
+- 🧑‍💻 I'm a Infrastructure Engineer.
+- 🌱 I am currently studying for AWS certification.
 - 📫 How to reach me: [Twitter - @Saito5940](https://x.com/Saito5940)
 <br>
 
